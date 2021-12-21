@@ -1,0 +1,16 @@
+p {
+
+    color: blue;
+  }
+  h1{
+    
+        text-align: center;
+        color: red;
+        padding:2cm;
+      
+  }
+  h2{
+      color: blue;
+      font-weight: bold;
+      padding:1cm;
+  }
